@@ -90,8 +90,14 @@ SafarAI addresses this gap by offering a **context-aware, safety-first AI travel
 - The system uses pre-trained AI models where applicable.
 
 ---
+## 9.Community & Public Impact
+- Improves safety and confidence for first-time and solo travelers.
+- Reduces language and information barriers for users traveling across regions.
+- Promotes local businesses, transport, and cultural awareness.
+- Supports inclusive mobility for students, women, and elderly travelers.
+- Reduces dependency on intermediaries for basic travel information.
 
-## 9. Success Criteria
+## 10. Success Criteria
 - Users can obtain reliable travel-related information for unfamiliar locations.
 - The system successfully assists users in overcoming language barriers.
 - The system improves user confidence and safety while traveling.
@@ -99,5 +105,6 @@ SafarAI addresses this gap by offering a **context-aware, safety-first AI travel
 
 ---
 
-## 10. Unique Value Proposition
+## 11. Unique Value Proposition
 SafarAI uniquely combines **safety-first travel guidance, local contextual intelligence, and language assistance** to support first-time and solo travelers within India, enabling safer and more confident mobility.
+
